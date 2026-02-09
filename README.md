@@ -23,7 +23,7 @@ A defense framework against MLLM-based web GUI agents, with an accompanying benc
 Current CAPTCHA types are no longer safe to MLLMs backed GUI agents. Browser-Use agent backed by frontier models like GPT-5.2, Gemini-3-Pro, and Claude-Opus4.5 achieve considerable pass rates on existing logic CAPTCHAs (Bingo, etc.), effectively collapsing the security barrier.
 
 <p align="center">
-  <img src="./assets/case_example.png" alt="Case Analysis" width="70%">
+  <img src="./assets/case_example.png" alt="Case Analysis" width="90%">
 </p>
 
 Next-Gen CAPTCHAs exploit the **Cognitive Gap** — the persistent asymmetry between human intuition and the over-segmented, step-by-step reasoning of GUI agents. We design interactive tasks that are solvable for humans without domain knowledge but systematically hard for agents due to bottlenecks in spatial grounding, temporal integration, and perception-to-action alignment.
