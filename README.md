@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/MetaAgentX/NextGen-CAPTCHAs">
-    <img src="./assets/logo.png" style="height: 10em" alt="Next-Gen CAPTCHAs" />
+    <img src="./assets/logo.png" width="480" alt="Next-Gen CAPTCHAs" />
   </a>
 </p>
+
 <div align="center">
 
 [![Webpage](https://img.shields.io/badge/Webpage-Live-2ea44f)](https://greenoso.github.io/NextGen-CAPTCHAs_webpage/)
