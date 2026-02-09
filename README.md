@@ -13,6 +13,10 @@
 [![Dataset](https://img.shields.io/badge/%F0%9F%93%A6-dataset-orange)](https://huggingface.co/datasets/YaxinLuo/NextGen-CAPTCHAs)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/downloads/release/python-3110/)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](Dockerfile)
+[![GitHub stars](https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=social)](https://github.com/MetaAgentX/NextGen-CAPTCHAs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MetaAgentX/NextGen-CAPTCHAs?style=social)](https://github.com/MetaAgentX/NextGen-CAPTCHAs/network/members)
 
 </div>
 
@@ -393,6 +397,23 @@ NextGen-CAPTCHAs/
 ├── BENCHMARKING.md        # Detailed benchmarking reference
 └── AGENT_FRAMEWORKS.md    # Agent framework & POMDP details
 ```
+
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{nextgencaptchas2026,
+  title={Next-Gen CAPTCHAs: A Defense Framework Against MLLM-Based Web GUI Agents},
+  author={TODO: Add authors},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  year={2026}
+}
+```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MetaAgentX/NextGen-CAPTCHAs&type=Date)](https://star-history.com/#MetaAgentX/NextGen-CAPTCHAs&Date)
 
 ## License
 

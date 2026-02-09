@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Next-Gen CAPTCHAs: A Defense Framework Against MLLM-Based Web GUI Agents"
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    # Add all paper authors here
+repository-code: "https://github.com/MetaAgentX/NextGen-CAPTCHAs"
+url: "https://greenoso.github.io/NextGen-CAPTCHAs_webpage/"
+license: MIT
+version: "0.2.0"
+date-released: "2026-02-09"
+keywords:
+  - captcha
+  - mllm
+  - gui-agent
+  - benchmark
+  - web-security
+  - multimodal
+  - cognitive-gap
+  - ai-safety
+preferred-citation:
+  type: article
+  title: "Next-Gen CAPTCHAs: A Defense Framework Against MLLM-Based Web GUI Agents"
+  authors:
+    - family-names: "TODO"
+      given-names: "TODO"
+  year: 2026
+  # url: "https://arxiv.org/abs/XXXX.XXXXX"
+  # doi: ""
