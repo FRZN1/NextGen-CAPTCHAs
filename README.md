@@ -402,11 +402,14 @@ NextGen-CAPTCHAs/
 If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{nextgencaptchas2026,
-  title={Next-Gen CAPTCHAs: A Defense Framework Against MLLM-Based Web GUI Agents},
-  author={TODO: Add authors},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@misc{liu2026nextgencaptchasleveragingcognitive,
+      title={Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense}, 
+      author={Jiacheng Liu and Yaxin Luo and Jiacheng Cui and Xinyi Shang and Xiaohan Zhao and Zhiqiang Shen},
+      year={2026},
+      eprint={2602.09012},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.09012}, 
 }
 ```
 
